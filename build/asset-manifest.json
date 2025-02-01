@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1641b91f.css",
+    "main.js": "/Portfolio/static/js/main.de430875.js",
+    "static/js/453.0d091d45.chunk.js": "/Portfolio/static/js/453.0d091d45.chunk.js",
+    "static/media/nairobi.png": "/Portfolio/static/media/nairobi.ac0394ec045edde92ab9.png",
+    "static/media/space-hub.png": "/Portfolio/static/media/space-hub.f07fdc44c81a1ff8dacf.png",
+    "static/media/CTS.png": "/Portfolio/static/media/CTS.8e6d146e0a7367d0039a.png",
+    "static/media/bw-map.jpeg": "/Portfolio/static/media/bw-map.9a72544ee56c3c1cf1ec.jpeg",
+    "static/media/white-abstract.png": "/Portfolio/static/media/white-abstract.81dfceb32cc78242923f.png",
+    "static/media/world-map.png": "/Portfolio/static/media/world-map.b6f2c25ebd3ccf8b22b1.png",
+    "static/media/Train.png": "/Portfolio/static/media/Train.0556b023eba06128e449.png",
+    "static/media/sher-bw.png": "/Portfolio/static/media/sher-bw.3364e94a7e4c151e168e.png",
+    "static/media/overcame-outline.woff": "/Portfolio/static/media/overcame-outline.e4685dc83777a33af73c.woff",
+    "static/media/dcc.png": "/Portfolio/static/media/dcc.5fdca3b652b245f63fc1.png",
+    "static/media/overcame-bold.woff": "/Portfolio/static/media/overcame-bold.1cbb476d06fa64bc5ee2.woff",
+    "static/media/PG.png": "/Portfolio/static/media/PG.e1d0f50ad9db2bc0066b.png",
+    "static/media/Logo-Text-v5.png": "/Portfolio/static/media/Logo-Text-v5.f37afd66fa88baa963ce.png",
+    "static/media/Creo.jpg": "/Portfolio/static/media/Creo.7f64e21f35ff1da38a10.jpg",
+    "static/media/UG.png": "/Portfolio/static/media/UG.1251f3327f00d89c9ac9.png",
+    "static/media/beckman.otf": "/Portfolio/static/media/beckman.488200807fbe24510023.otf",
+    "static/media/Screw.png": "/Portfolio/static/media/Screw.fd063c1cba1dee295eed.png",
+    "static/media/Drone.png": "/Portfolio/static/media/Drone.3d3e278e9cfe4ccbf364.png",
+    "static/media/Dragonfly.png": "/Portfolio/static/media/Dragonfly.0a8274b003d021ae43d2.png",
+    "static/media/Star-CCM.jpg": "/Portfolio/static/media/Star-CCM.91f360bcfe86bccdf524.jpg",
+    "static/media/ST.jpg": "/Portfolio/static/media/ST.4cc795fb5a392f27226d.jpg",
+    "static/media/mova.otf": "/Portfolio/static/media/mova.707cfc3dbae1078dc46e.otf",
+    "static/media/abaqus.png": "/Portfolio/static/media/abaqus.bc187da2829819b12924.png",
+    "static/media/ACAD.jpg": "/Portfolio/static/media/ACAD.a2708c056dd4a48ae479.jpg",
+    "static/media/arenq.otf": "/Portfolio/static/media/arenq.9e75b52c3613e6e8a4e8.otf",
+    "static/media/Catia.png": "/Portfolio/static/media/Catia.43d648e8be6051d4879a.png",
+    "static/media/F360.png": "/Portfolio/static/media/F360.252a16e0009a97d1e791.png",
+    "static/media/github.png": "/Portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1641b91f.css.map": "/Portfolio/static/css/main.1641b91f.css.map",
+    "main.de430875.js.map": "/Portfolio/static/js/main.de430875.js.map",
+    "453.0d091d45.chunk.js.map": "/Portfolio/static/js/453.0d091d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1641b91f.css",
+    "static/js/main.de430875.js"
+  ]
+}
